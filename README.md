@@ -7,6 +7,9 @@
 ## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+## Authors
+[@Nishant4coding](https://www.github.com/Nishant4coding)
+
 
 
 
